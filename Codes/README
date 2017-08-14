@@ -1,0 +1,10 @@
+There are 4 files in this folder.
+1. s1.py which is the first part of the assignment. 
+2. s2.py which is the second part of the assignment.
+3. client.py which is the third part of the assignment.
+4. s4.py which is the fourth part of the assignment(including bonus).
+
+s1.py just takes a GET request from browser and sends the response. Port: 5678
+s2.py has multi-threading implemented in it. It handles GET,POST and PUT requests. Port: 5789
+client.py is a client file. It sends GET, POST requests to the server and print out the responses obtained.
+s4.py handles authentication using username and password. DOS attack handling (bonus) is done in this part. Port: 5789
